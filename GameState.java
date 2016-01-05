@@ -1,0 +1,3 @@
+enum GameState{
+	STARTING, MAIN_MENU, PLAYING, PAUSED
+}

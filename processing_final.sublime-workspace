@@ -1,0 +1,1362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"JU",
+				"JUMPING"
+			],
+			[
+				"else",
+				"else	else if"
+			],
+			[
+				"ac",
+				"actionState"
+			],
+			[
+				"y",
+				"yVel"
+			],
+			[
+				"println",
+				"println	println text"
+			],
+			[
+				"pr",
+				"println	println text"
+			],
+			[
+				"I",
+				"IDLE"
+			],
+			[
+				"P",
+				"PlayerState"
+			],
+			[
+				"mov",
+				"moveVel"
+			],
+			[
+				"Pl",
+				"PlayerState"
+			],
+			[
+				"next",
+				"nextMove"
+			],
+			[
+				"nod",
+				"nodes"
+			],
+			[
+				"rect",
+				"rect	rectMode"
+			],
+			[
+				"begi",
+				"beginshape	beginShape"
+			],
+			[
+				"ma",
+				"matrix	pushMatrix/popMatrix"
+			],
+			[
+				"PL",
+				"PlayerState"
+			],
+			[
+				"Ply",
+				"PlayerController"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"JS",
+				"JSONArray"
+			],
+			[
+				"in",
+				"inhabitants"
+			],
+			[
+				"getJ",
+				"getJSONObject"
+			],
+			[
+				"get",
+				"getJSONArray"
+			],
+			[
+				"im",
+				"implements"
+			],
+			[
+				"class",
+				"classMap"
+			],
+			[
+				"add",
+				"addSceneNode"
+			],
+			[
+				"tr",
+				"try	try..catch"
+			],
+			[
+				"pri",
+				"println	println text"
+			],
+			[
+				"clas",
+				"classMap"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"setup",
+				"setupFactory"
+			],
+			[
+				"s",
+				"setup	setup"
+			],
+			[
+				"set",
+				"setup	setup OpenGL"
+			],
+			[
+				"se",
+				"setup	setup OpenGL"
+			],
+			[
+				"ren",
+				"renderScene"
+			],
+			[
+				"ne",
+				"nextId"
+			],
+			[
+				"Node",
+				"SceneNode"
+			],
+			[
+				"ca",
+				"catch	catch"
+			],
+			[
+				"K",
+				"KeyListener"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"g",
+				"getInt"
+			],
+			[
+				"k",
+				"keyPressed"
+			],
+			[
+				"Player",
+				"PlayerActor"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"L",
+				"level_width"
+			],
+			[
+				"F",
+				"Factory"
+			],
+			[
+				"M",
+				"MAIN_MENU"
+			],
+			[
+				"men",
+				"menuGui"
+			],
+			[
+				"key",
+				"key	keyPressed"
+			],
+			[
+				"t",
+				"try	try..catch..finally"
+			],
+			[
+				"pu",
+				"public	public function"
+			],
+			[
+				"Input",
+				"InputHandler"
+			],
+			[
+				"In",
+				"InputHandler"
+			],
+			[
+				"display",
+				"displayWidth"
+			],
+			[
+				"line",
+				"line	line"
+			],
+			[
+				"ar",
+				"arduino_input"
+			],
+			[
+				"publi",
+				"public	public static var"
+			],
+			[
+				"private",
+				"private	private static var"
+			],
+			[
+				"p",
+				"pl	println"
+			],
+			[
+				"b",
+				"buf_index"
+			],
+			[
+				"buf",
+				"buf_index"
+			],
+			[
+				"cl",
+				"client_pid"
+			],
+			[
+				"my_",
+				"my_atoi"
+			],
+			[
+				"SE",
+				"SERVER"
+			],
+			[
+				"Server",
+				"SERVER"
+			],
+			[
+				"cmd",
+				"cmd"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"empty",
+				"empty_list"
+			],
+			[
+				"list",
+				"list"
+			],
+			[
+				"my_str",
+				"my_strcpy"
+			],
+			[
+				"DerelictS",
+				"DerelictSDL2Image"
+			],
+			[
+				"D",
+				"Debug"
+			],
+			[
+				"COLOR",
+				"COLOR_BLUE"
+			],
+			[
+				"defa",
+				"defaultTileName"
+			],
+			[
+				"width",
+				"_width"
+			],
+			[
+				"instance",
+				"_instance"
+			],
+			[
+				"new",
+				"newOutput"
+			],
+			[
+				"length",
+				"length-1"
+			],
+			[
+				"side",
+				"side_a"
+			],
+			[
+				"si",
+				"side_a"
+			],
+			[
+				"i",
+				"_I_SCENE_GRAPH_H"
+			],
+			[
+				"de",
+				"dequeue"
+			],
+			[
+				"test",
+				"testQueue"
+			],
+			[
+				"eleme",
+				"elements"
+			],
+			[
+				"alloca",
+				"_allocated"
+			],
+			[
+				"_",
+				"_allocated"
+			],
+			[
+				"be",
+				"best_val"
+			],
+			[
+				"one",
+				"oneManJob"
+			],
+			[
+				"safe",
+				"safestPath"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"current",
+				"current_val"
+			],
+			[
+				"saf",
+				"safestNeighbor"
+			],
+			[
+				"re",
+				"resetStack"
+			],
+			[
+				"GL",
+				"GLProgram"
+			],
+			[
+				"un",
+				"unvisitAll"
+			],
+			[
+				"e",
+				"Elem"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"My",
+				"MyGraph"
+			],
+			[
+				"DerelictG",
+				"DerelictGL3"
+			],
+			[
+				"main",
+				"maina	int main(char[][] args) { … }"
+			],
+			[
+				"qui",
+				"quick2"
+			],
+			[
+				"man",
+				"maina	int main(char[][] args) { … }"
+			],
+			[
+				"out",
+				"outputColor"
+			],
+			[
+				"unifor",
+				"uniformModel"
+			],
+			[
+				"glBin",
+				"glBindVertexArray"
+			],
+			[
+				"GLu",
+				"GLuint"
+			],
+			[
+				"model",
+				"modelAttrib"
+			],
+			[
+				"sc",
+				"screen_height"
+			],
+			[
+				"z",
+				"zNear"
+			],
+			[
+				"text",
+				"textureAttrib"
+			],
+			[
+				"tex",
+				"textureAttrib"
+			],
+			[
+				"GL_A",
+				"GL_ARRAY_BUFFER"
+			],
+			[
+				"GLg",
+				"glGenBuffers"
+			],
+			[
+				"GL_T",
+				"GL_TEXTURE_2D"
+			],
+			[
+				"te",
+				"textureBuffer"
+			],
+			[
+				"Fre",
+				"FreeImage_GetWidth"
+			],
+			[
+				"Derelict",
+				"DerelictFI"
+			],
+			[
+				"el",
+				"fElapsedTime"
+			],
+			[
+				"scree",
+				"screen_width"
+			],
+			[
+				"glB",
+				"glBindVertexArray"
+			],
+			[
+				"col",
+				"colorAttrib"
+			],
+			[
+				"co",
+				"colorAttrib"
+			],
+			[
+				"COO",
+				"coordAttrib"
+			],
+			[
+				"color",
+				"colorAttrib"
+			],
+			[
+				"verte",
+				"vertexBuffer"
+			],
+			[
+				"glBind",
+				"glBindVertexArray"
+			],
+			[
+				"glU",
+				"glUseProgram"
+			],
+			[
+				"GL_",
+				"GL_FALSE"
+			],
+			[
+				"uni",
+				"uniformMVP"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Player.pde",
+			"settings":
+			{
+				"buffer_size": 2927,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Platform.pde",
+			"settings":
+			{
+				"buffer_size": 1228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SceneGraph.pde",
+			"settings":
+			{
+				"buffer_size": 2631,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "json/level_1.json",
+			"settings":
+			{
+				"buffer_size": 535,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "final_project.pde",
+			"settings":
+			{
+				"buffer_size": 2547,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Processing/Processing 3.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/Ant.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					""
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Run sketch fullscreen"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Build & run sketch"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Build & run sketch fullscreen"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Export sketch as a 32-bit linux application"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Export sketch as a 64-bit linux application"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Export sketch as a macosx application"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Export sketch as a 32-bit windows application"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Export sketch as a 64-bit windows application"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					""
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Run sketch fullscreen"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Export sketch as a 32-bit linux application"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Export sketch as a 64-bit linux application"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Export sketch as a macosx application"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Export sketch as a 32-bit windows application"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Export sketch as a 64-bit windows application"
+				]
+			],
+			[
+				"Packages/Processing/Processing 3.sublime-build",
+				"Build & run sketch"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "ss pr",
+		"selected_items":
+		[
+			[
+				"ss pr",
+				"Set Syntax: Processing"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ss ja",
+				"Set Syntax: Java"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Themr: Next theme"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"toggl",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ad",
+				"Package Control: Add Repository"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"add ",
+				"Package Control: Add Repository"
+			],
+			[
+				"syntax mak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"syntax c++",
+				"Set Syntax: C++"
+			],
+			[
+				"if",
+				"Snippet: if …"
+			],
+			[
+				"ife",
+				"Snippet: if … else"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"build",
+			"dmd",
+			"dmd main.d"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/nameless/Work/Processing/final_project",
+		"/home/nameless/Work/Processing/final_project/json"
+	],
+	"file_history":
+	[
+		"/mnt/win/Users/Class2017/Work/cs347/Tindog/search.php",
+		"/home/nameless/Work/Processing/final_project/iCollidable.pde",
+		"/home/nameless/Work/Processing/final_project/final_project.pde",
+		"/home/nameless/Work/Processing/final_project/Platform.pde",
+		"/home/nameless/Work/Processing/final_project/Actor_Controller.pde",
+		"/home/nameless/Work/Processing/final_project/iCollidable.java",
+		"/home/nameless/Work/Processing/final_project/Factory.pde",
+		"/home/nameless/Work/Processing/final_project/SceneGraph.pde",
+		"/home/nameless/Work/Processing/final_project/FactoryMethods.pde",
+		"/home/nameless/Work/Processing/final_project/SceneNode.pde",
+		"/home/nameless/Work/Processing/final_project/json/level_1.json",
+		"/home/nameless/Work/Processing/final_project/Player.pde",
+		"/home/nameless/Work/Processing/final_project/MenuGUI.pde",
+		"/home/nameless/Work/Processing/final_project/Renderer.pde",
+		"/home/nameless/Work/Processing/final_project/FixedGrid.pde",
+		"/home/nameless/Work/Processing/final_project/iDrawable.java",
+		"/home/nameless/Work/Processing/final_project/SceneTree.pde",
+		"/home/nameless/Work/Processing/final_project/PlayerState.java",
+		"/home/nameless/Work/Processing/final_project/MenuGUI.java",
+		"/home/nameless/Work/Processing/final_project/iFactorizable.java",
+		"/home/nameless/Work/Processing/final_project/	at processing.core.PApplet.run(PApplet.java",
+		"/home/nameless/Work/Processing/final_project/	at processing.data.JSONTokener.nextValue(JSONTokener.java",
+		"/home/nameless/Work/Processing/final_project/src/Test.java",
+		"/home/nameless/Work/Processing/arduino/Factory.pde",
+		"/home/nameless/Work/Processing/final/final_project.pde",
+		"/home/nameless/Work/Processing/final/final.pde",
+		"/home/nameless/Work/Processing/arduino/FixedGrid.pde",
+		"/home/nameless/Work/Processing/arduino/Player.pde",
+		"/home/nameless/Work/Processing/arduino/iDrawable.java",
+		"/home/nameless/Work/Processing/arduino/Renderer.pde",
+		"/home/nameless/Work/Processing/arduino/arduino.pde",
+		"/home/nameless/Work/Processing/arduino/Actor_Controller.pde",
+		"/home/nameless/Work/Processing/arduino/json/level_1.json",
+		"/home/nameless/Work/Processing/arduino/InputHandler.pde",
+		"/home/nameless/Work/Processing/arduino/json/../Player.pde",
+		"/home/nameless/Work/Processing/arduino/SceneNode.pde",
+		"/home/nameless/Work/Processing/arduino/json/../Keys.java",
+		"/home/nameless/Work/Processing/arduino/KEY.java",
+		"/home/nameless/Work/Processing/arduino/KeyListener.java",
+		"/home/nameless/Work/Processing/arduino/json/Keys.java",
+		"/home/nameless/Work/Processing/arduino/GameState.java",
+		"/home/nameless/Work/Processing/arduino/iTickable.java",
+		"/home/nameless/Work/Processing/arduino/libraries/../SceneNode.java",
+		"/home/nameless/Work/Processing/arduino/Game.pde",
+		"/home/nameless/Work/Processing/hardest_game/hardest_game.pde",
+		"/home/nameless/Work/Processing/hardest_game/Test.java",
+		"/home/nameless/Work/Processing/hardest_game/test.java",
+		"/home/nameless/Work/Processing/hardest_game/test/../test.java",
+		"/home/nameless/Work/Processing/arduino/Test.java",
+		"/home/nameless/Work/Processing/arduino/libraries/Test.java",
+		"/home/nameless/Work/Processing/assign2/assign2.pde",
+		"/home/nameless/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/mnt/win/Users/Class2017/Work/cs347/notes/347_notes.sublime-project",
+		"/home/nameless/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/nameless/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/mnt/win/Users/Class2017/Work/cs347/notes/347",
+		"/mnt/win/Users/Class2017/Work/cs392/src/my_stdio/my_fopen.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/my_stdio/Makefile",
+		"/mnt/win/Users/Class2017/Work/cs392/include/my_stdio.h",
+		"/home/nameless/Apps/eagle/bin/eagle",
+		"/home/nameless/Apps/processing/processing",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minitalk/minitalk.h",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minitalk/Makefile",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minitalk/client.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minitalk/server.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minitalk/process_message.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minitalk/process_pid.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minitalk/process_ack.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/my/my_atoi.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/my/Makefile",
+		"/mnt/win/Users/Class2017/Work/cs392/include/my.h",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minishell/main.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minitalk/--library=my",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minishell/process_cmd.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minishell/process_fcmd.c",
+		"/mnt/win/Users/Class2017/Work/cs392/include/minishell.h",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minishell/process_signal.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minishell/Makefile",
+		"/mnt/win/Users/Class2017/Work/cs392/src/my_stdio/malloc.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/minishell/minishell",
+		"/mnt/win/Users/Class2017/Work/cs392/src/my/my_str2vect.c",
+		"/mnt/win/Users/Class2017/Work/cs392/src/list/Makefile",
+		"/mnt/win/Users/Class2017/Work/cs392/src/pipes/main.c",
+		"/mnt/win/Users/Class2017/Work/cs392/test/testlist.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/include/mylist.h",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/include/my_stdio.h",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/list/remove_node.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/list/traverse_string.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strnconcat.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/list/add_node_at.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/list/remove_node_at.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/list/debug_int.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/list/add_node.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/Makefile",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/list/Makefile",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/test/Makefile",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/list/new_node.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strdup.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strcpy.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strconcat.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strcmp.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strcat.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/test/testmy2.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/include/my.h",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_panic.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strncmp.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strrfind.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strfind.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/xmalloc.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strncpy.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/test/testmy.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_str.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_int.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_revstr.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strindex.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strrindex.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_num_base.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/strrindex.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_strlen.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_digits.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_alpha.c",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/src/my/my_char.c",
+		"/C/Users/Class2017/Documents/Classes/CS-585/ncurses-engine/Makefile",
+		"/C/Users/Class2017/Desktop/workspace/CS-392/Work/cs392/temp.txt",
+		"/C/Users/Class2017/Desktop/CS-392/Notes/Permissions",
+		"/C/Users/Class2017/Desktop/tar-Tool_Odin3-v3.07_by_mkh.mourad/tar-Tool_Odin3-v3.07_by_mkh.mourad/Yes_File",
+		"/C/Users/Class2017/Desktop/CS-383/Operating System",
+		"/C/Users/Class2017/Desktop/CS-383/TCP-IP"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"moveState",
+			"this.",
+			"node.",
+			"x",
+			"yvel",
+			"width",
+			"x",
+			"y",
+			"x",
+			"getInt",
+			"graph.",
+			"graph",
+			"int",
+			"x",
+			"10",
+			"pos",
+			"int",
+			"_color",
+			"depth",
+			"int",
+			"NodeList",
+			"col",
+			"row",
+			"1",
+			"\"r\"",
+			"height",
+			"x",
+			"=",
+			"return (",
+			"SceneNode",
+			"rtn",
+			"Factory",
+			"1",
+			"height",
+			"y",
+			"x",
+			"i.",
+			"i",
+			"class",
+			"Class",
+			"actor",
+			"true",
+			"IN",
+			"in",
+			"add",
+			"MAIN_MENU",
+			"level",
+			";",
+			"Player",
+			"row",
+			"	",
+			"		",
+			"	",
+			"_color",
+			"width",
+			"color",
+			"x",
+			"preTick",
+			"Tick",
+			"add",
+			"//TODO",
+			"{",
+			"ListWrapper",
+			"DArray<SceneNode>",
+			"*",
+			"virtual",
+			"g",
+			"	",
+			"Input",
+			"input",
+			"Game",
+			"static ",
+			"input",
+			"val",
+			"int",
+			"	",
+			"my_",
+			"//",
+			"i",
+			"client_pid",
+			"pid",
+			"00);",
+			"00);\n	my_str(\"Sending Acknowledgement... \\n\");\n	usleep(20000);\n	my_str(\"Sending Acknowledgement... \\n\");\n	usleep(20000);\n	my_str(\"Sending Acknowledgement... \\n\");\n	usleep(20000);\n	my_str(\"Sending Acknowledgement... \\n\");\n	usleep(20000);\n	kill(SIGUSR1, client_pid);\n\n\n	return 0;\n}",
+			"process_signal",
+			"NAME1",
+			"%",
+			"1",
+			"(OBJ)",
+			"NAME2",
+			"NAME1",
+			"SYMBOL",
+			"child_pid",
+			"pid",
+			"return 0",
+			"command",
+			"temp",
+			"n",
+			"temp",
+			"num1",
+			"&num1",
+			"prev",
+			"\");",
+			"string",
+			"str",
+			"char",
+			"t_node*",
+			"REMOVE",
+			"NULL",
+			"node1",
+			"2",
+			"1",
+			"str",
+			"Str",
+			"str",
+			"Str",
+			"str",
+			"Str",
+			"str",
+			"my_str(",
+			"\"char* s1\"",
+			"Strcpy",
+			"strcpy",
+			"Strcpy",
+			"strcpy",
+			"Strcpy",
+			"strcpy",
+			"Strdup",
+			"Str"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Player.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Platform.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1228,
+								1228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "SceneGraph.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2397,
+								2397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 999.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "json/level_1.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "final_project.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1270,
+								1270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 251.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "processing_final.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fi",
+				"final_project.pde"
+			],
+			[
+				"pla",
+				"Platform.pde"
+			],
+			[
+				"ic",
+				"iCollidable.java"
+			],
+			[
+				"i",
+				"iCollidable.java"
+			],
+			[
+				"p",
+				"Platform.pde"
+			],
+			[
+				"scen",
+				"SceneNode.pde"
+			],
+			[
+				"faco",
+				"FactoryMethods.pde"
+			],
+			[
+				"sce",
+				"SceneNode.pde"
+			],
+			[
+				"pl",
+				"Platform.pde"
+			],
+			[
+				"fa",
+				"Factory.pde"
+			],
+			[
+				"fac",
+				"Factory.pde"
+			],
+			[
+				"render",
+				"Renderer.pde"
+			],
+			[
+				"f",
+				"arduino/Factory.pde"
+			],
+			[
+				"test",
+				"arduino/Test.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/mnt/win/Users/Class2017/Work/cs347/Tindog/tindog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
